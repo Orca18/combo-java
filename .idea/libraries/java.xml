@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/prfps.javadoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/jna-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PrIns.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PrFps.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

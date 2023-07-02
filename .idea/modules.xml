@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gui/ReadCard/ReadCard.iml" filepath="$PROJECT_DIR$/gui/ReadCard/ReadCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui/ScannerSample/ScannerSample.iml" filepath="$PROJECT_DIR$/gui/ScannerSample/ScannerSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prfps-sdk-2.2.0.20.iml" filepath="$PROJECT_DIR$/prfps-sdk-2.2.0.20.iml" />
+    </modules>
+  </component>
+</project>
